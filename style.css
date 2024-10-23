@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.main {
+  height: 700px;
+  width: 900px;
+  
+}
+.forms{
+    border-radius: 30px;
+    height: 350px;
+
+}
+.forms input{
+    padding: 8px;
+
+}
+.body{
+    background-color: gray
+    ;
+}
+.btn a{
+  text-decoration: none;
+}
